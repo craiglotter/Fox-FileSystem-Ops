@@ -1,0 +1,3 @@
+APPLICATION_NAME=Fox FileSystem Ops
+EXECUTABLE=Fox FileSystem Ops.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Fox FileSystem Ops/manifest.xml
